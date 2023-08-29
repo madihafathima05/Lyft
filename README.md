@@ -1,5 +1,4 @@
 # Lyft 
-Repository: Lyft
 
 Description:
 Welcome to the Lyft Rental Logistics Component repository! This project is a crucial part of Lyft's ambitious initiative to create more connected and sustainable cities across the US through their innovative rental fleet program. Our team has taken on a significant responsibility, as we've inherited an essential project from a colleague who had to switch gears. 
